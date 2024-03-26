@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run multiple_diagnostics_system.py
